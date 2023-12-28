@@ -10,3 +10,7 @@ add(5, 15);
 const subtract = (num1, num2) => num1 - num2;
 
 subtract(20, 30);
+
+const multiply = (num1, num2) => num1 * num2;
+
+multiply(24, 32);
