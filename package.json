@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "jsdom": "^23.2.0"
+  },
+  "devDependencies": {
+    "vitest": "^2.0.5"
+  },
+    "scripts": {
+      "test": "vitest"
+    }
   }
-}
